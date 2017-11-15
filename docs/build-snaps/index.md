@@ -107,7 +107,7 @@ title: Build snaps
         </div>
         <div class="col-6">
           <ul class="p-list u-no-margin">
-            <li class="p-list__item"><a href="/build-snaps/">Learn to create a snap</a> with a widely applicable example</li>
+            <li class="p-list__item"><a href="/build-snaps/">Learn to create a snap</a> with a simple example</li>
             <li class="p-list__item"><a href="/reference/">Read the reference</a> for a comprehsive view of what's possible</li>
           </ul>
         </div>
