@@ -81,11 +81,17 @@ navigation:
   - location: build-snaps/node.md
     title: Node
 
-  - location: build-snaps/go.md
-    title: Go
+  - location: build-snaps/electron.md
+    title: Electron
 
   - location: build-snaps/python.md
     title: Python
+
+  - location: build-snaps/ruby.md
+    title: Ruby
+
+  - location: build-snaps/go.md
+    title: Go
 
   - location: build-snaps/moos.md
     title: MOOS

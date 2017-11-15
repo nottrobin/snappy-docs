@@ -49,17 +49,35 @@ title: Build snaps
       </div>
       <div class="row">
         <div class="col-12 p-logo-links">
-          <a class="p-logo-link p-card" href="/build-snaps/python">
+          <a class="p-logo-link p-card" href="/build-snaps/pre-built">
             <header class="p-card__header">
-              <img src="https://assets.ubuntu.com/v1/c3d9d13f-python-logo.png" style="height: 105px; max-height: 105px;" alt="">
+              <img src="https://assets.ubuntu.com/v1/f14812c7-adwaita-package.png" style="height: 105px; max-height: 105px;" alt="">
             </header>
-            <p class="u-no-margin">Python</p>
+            <p class="u-no-margin">Pre-built apps</p>
           </a>
           <a class="p-logo-link p-card" href="/build-snaps/node">
             <header class="p-card__header">
               <img src="https://assets.ubuntu.com/v1/9735ad74-node-logo.png" style="height: 105px; max-height: 105px;" alt="">
             </header>
             <p class="u-no-margin">Node.js</p>
+          </a>
+          <a class="p-logo-link p-card" href="/build-snaps/electron">
+            <header class="p-card__header">
+              <img src="https://assets.ubuntu.com/v1/c8a76d95-electron.svg" style="height: 105px; max-height: 105px;" alt="">
+            </header>
+            <p class="u-no-margin">Electron</p>
+          </a>
+          <a class="p-logo-link p-card" href="/build-snaps/python">
+            <header class="p-card__header">
+              <img src="https://assets.ubuntu.com/v1/c3d9d13f-python-logo.png" style="height: 105px; max-height: 105px;" alt="">
+            </header>
+            <p class="u-no-margin">Python</p>
+          </a>
+          <a class="p-logo-link p-card" href="/build-snaps/ruby">
+            <header class="p-card__header">
+              <img src="https://assets.ubuntu.com/v1/e6bb225e-ruby-logo.png" style="height: 105px; max-height: 105px;" alt="">
+            </header>
+            <p class="u-no-margin">Ruby</p>
           </a>
           <a class="p-logo-link p-card" href="/build-snaps/go">
             <header class="p-card__header">
@@ -78,12 +96,6 @@ title: Build snaps
               <img src="https://assets.ubuntu.com/v1/dc84f68e-c8749268-logo-ros.png" style="height: 105px; max-height: 105px;" alt="">
             </header>
             <p class="u-no-margin">ROS</p>
-          </a>
-          <a class="p-logo-link p-card" href="/build-snaps/pre-built">
-            <header class="p-card__header">
-              <img src="https://assets.ubuntu.com/v1/f14812c7-adwaita-package.png" style="height: 105px; max-height: 105px;" alt="">
-            </header>
-            <p class="u-no-margin">Pre-built apps</p>
           </a>
         </div>
       </div>
